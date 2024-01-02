@@ -2,12 +2,74 @@
 
 Write app description in detail!
 
-## Screenshots
+#### Screenshots
 
-> Live:
+[Yet to be uploaded]
 
-#### LICENSE: MIT
+## 🎉 Check it yourself!
+
+| 🚧 Build Status  | [![Netlify Status](https://img.shields.io/github/actions/workflow/status/anburocky3/festival-greeting-app/deploy.yml?logo=github&label=Live)](https://app.netlify.com/sites/cyberdude-internship/deploys) |
+| ---------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ✅ Live Website: | https://anburocky3.github.io/vite-html-tailwind                                                                                                                                                           |
+
+---
+
+### GitHub Template
+
+[Create a repo from this template on GitHub](https://github.com/anburocky3/vite-html-tailwind/generate).
+
+### Clone to local
+
+If you prefer to do it manually with the cleaner git history
+
+```bash
+npx degit anburocky3/vite-html-tailwind my-app
+cd my-app
+npm install # Install dependencies
+```
+
+## Checklist
+
+When you use this template, try follow the checklist to update your info properly
+
+- [ ] Change the author name in `LICENSE`
+- [ ] Change the title and unnecessary info in `index.html`
+- [ ] According to your usage, modify READMEs
+
+And, enjoy :)
+
+## Usage
+
+### Development
+
+Just run and visit http://localhost:5173
+
+```bash
+npm run dev
+```
+
+### Build
+
+To build the App, run
+
+```bash
+npm run build
+```
+
+And you will see the generated file in `dist` that ready to be served.
+
+### Preview
+
+To preview the build files, run
+
+```bash
+npm run preview
+```
+
+#### LICENSE: [MIT](./LICENSE)
 
 #### Authors:
 
 - [Anbuselvan Rocky](https://fb.me/anburocky3)
+
+[![Deploy to GH Pages](https://github.com/anburocky3/vite-html-tailwind/actions/workflows/deploy.yml/badge.svg)](https://github.com/anburocky3/vite-html-tailwind/actions/workflows/deploy.yml)
