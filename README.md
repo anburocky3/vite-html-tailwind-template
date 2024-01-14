@@ -71,15 +71,15 @@ npm run preview
 
 - Go to repository `Setting`.
 
-<a href="https://ibb.co/QMKtPLG"><img src="https://i.ibb.co/3cCQp2H/Screenshot-2024-01-13-163058.png" alt="Screenshot-2024-01-13-163058" border="0"></a>
+<a href="https://ibb.co/z6NssvJ"><img src="https://i.ibb.co/PDtxxHQ/Screenshot-2024-01-13-163058.png" alt="Screenshot-2024-01-13-163058" border="0"></a>
 
 - Select `Pages`.
 
-<a href="https://ibb.co/xgJGkkv"><img src="https://i.ibb.co/M1MpvvT/Screenshot-2024-01-13-163225.png" alt="Screenshot-2024-01-13-163225" border="0"></a>
+<a href="https://ibb.co/vXGMWtL"><img src="https://i.ibb.co/Sf8ZgLV/Screenshot-2024-01-13-163225.png" alt="Screenshot-2024-01-13-163225" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload</a><br />
 
 - Select `GitHub Actions` under `Build and Deployment`.
 
-<a href="https://ibb.co/vHd8SxJ"><img src="https://i.ibb.co/t4259Mb/Screenshot-2024-01-13-162413.png" alt="Screenshot-2024-01-13-162413" border="0"></a>
+<a href="https://ibb.co/KXgKZrZ"><img src="https://i.ibb.co/qd8JGrG/Screenshot-2024-01-13-163458.png" alt="Screenshot-2024-01-13-163458" border="0"></a>
 
 #### LICENSE: [MIT](./LICENSE)
 
