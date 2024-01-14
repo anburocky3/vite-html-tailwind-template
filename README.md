@@ -79,7 +79,7 @@ npm run preview
 
 - Select `GitHub Actions` under `Build and Deployment`.
 
-<a href="https://ibb.co/KXgKZrZ"><img src="https://i.ibb.co/qd8JGrG/Screenshot-2024-01-13-163458.png" alt="Screenshot-2024-01-13-163458" border="0"></a>
+<a href="https://ibb.co/jJc7t1G"><img src="https://i.ibb.co/phtCq9Z/Screenshot-2024-01-14-235908.png" alt="Screenshot-2024-01-14-235908" border="0"></a>
 
 #### LICENSE: [MIT](./LICENSE)
 
