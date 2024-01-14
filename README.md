@@ -71,11 +71,11 @@ npm run preview
 
 - Go to repository `Setting`.
 
-<a href="https://ibb.co/z6NssvJ"><img src="https://i.ibb.co/PDtxxHQ/Screenshot-2024-01-13-163058.png" alt="Screenshot-2024-01-13-163058" border="0"></a>
+<a href="https://ibb.co/kHZLHrC"><img src="https://i.ibb.co/r79B7Lr/Screenshot-2024-01-14-235556.png" alt="Screenshot-2024-01-14-235556" border="0"></a>
 
 - Select `Pages`.
 
-<a href="https://ibb.co/vXGMWtL"><img src="https://i.ibb.co/Sf8ZgLV/Screenshot-2024-01-13-163225.png" alt="Screenshot-2024-01-13-163225" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload</a><br />
+<a href="https://ibb.co/GpjWqWt"><img src="https://i.ibb.co/g9CSxSP/Screenshot-2024-01-14-235801.png" alt="Screenshot-2024-01-14-235801" border="0"></a>
 
 - Select `GitHub Actions` under `Build and Deployment`.
 
